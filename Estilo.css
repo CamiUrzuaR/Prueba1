@@ -29,3 +29,13 @@ body {
 	padding-top: 0.4em;
 	padding-bottom: 0.6em;
 }
+
+.glyphicon {
+	font-size: 120px;
+	padding-top: 0.4em;
+}
+
+.thumbnail {
+	margin-top: 30px;
+	float: left;
+}
