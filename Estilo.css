@@ -39,3 +39,18 @@ body {
 	margin-top: 30px;
 	float: left;
 }
+
+.FOOTER {
+	background-color: black;
+	color: white;
+	font-size: 10px;
+	text-align: left;
+}
+
+.nosotros {
+	margin-top: 20px;
+}
+
+.titulo {
+	text-align: center;
+}
