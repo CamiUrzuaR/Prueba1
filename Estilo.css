@@ -18,7 +18,7 @@ body {
 }
 
 .jumbotron {
-	margin: 0;
+	margin-top: 90px;
 	padding: 0;
 	text-align: center;
 	padding-bottom: 2em;
@@ -41,16 +41,37 @@ body {
 }
 
 .FOOTER {
-	background-color: black;
-	color: white;
-	font-size: 10px;
+	font-size: 0.1em;
 	text-align: left;
+	margin-top: 20px;
+	padding-top: 35px;
 }
 
 .nosotros {
-	margin-top: 20px;
+	margin-top: 70px;
 }
 
 .titulo {
 	text-align: center;
+	margin-top: 150px;
+}
+
+.imagen {
+	height: 60%;
+	width: 60%;
+	margin: 50px;
+}
+
+.mision {
+	font-size: 3em;
+	padding-top: 60px;
+	text-align: center;
+}
+
+.title {
+	text-align: center;
+}
+
+.noticias {
+	margin-top: 150px;
 }
